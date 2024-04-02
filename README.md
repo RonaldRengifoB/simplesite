@@ -1,5 +1,4 @@
 1.  In the AWS account I'm creating a bucket called “epam-simplesite” for this exercise
-
 ![](https://github.com/RonaldRengifoB/simplesite/blob/main/1.create-bucket.png?raw=true)
 
 2\. Enabled Public Access to this bucket  
@@ -15,7 +14,6 @@
 ![](https://github.com/RonaldRengifoB/simplesite/blob/main/5.ev.png?raw=true)
 
 6\. Edited the properties for website hosting
-
 ![](https://github.com/RonaldRengifoB/simplesite/blob/main/7.enabled-static-website.png?raw=true)
 
 7\. In bucket properties, I enabled "Static website hosting", typed the name of the default webpage file “index.html” and Saved the changes
